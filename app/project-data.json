@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "Community Hub",
+      "owner": "Amara Okafor",
+      "status": "On track",
+      "recentActivity": "Member directory is ready for the first round of feedback.",
+      "priority": "High",
+      "summary": "A welcoming home for members to connect, share knowledge, and find their people."
+    },
+    {
+      "name": "Greenlight Grants",
+      "owner": "Leo Chen",
+      "status": "At risk",
+      "recentActivity": "The review team flagged two applications that need follow-up.",
+      "priority": "High",
+      "summary": "Making it easier to discover, apply for, and award community project grants."
+    },
+    {
+      "name": "Open Source Toolkit",
+      "owner": "Priya Nair",
+      "status": "In progress",
+      "recentActivity": "Contributor setup guide merged; first-time issues are next.",
+      "priority": "Medium",
+      "summary": "Practical, reusable tools that help new contributors get started with confidence."
+    },
+    {
+      "name": "Learning Circles",
+      "owner": "Mateo Rivera",
+      "status": "Planning",
+      "recentActivity": "Workshop hosts shared topics for the upcoming session.",
+      "priority": "Medium",
+      "summary": "Small peer-led groups where people can learn together and keep each other moving."
+    },
+    {
+      "name": "Impact Stories",
+      "owner": "Nia Williams",
+      "status": "On track",
+      "recentActivity": "Three new community stories are ready for editorial review.",
+      "priority": "Low",
+      "summary": "Sharing the people, partnerships, and small wins behind the team's work."
+    },
+    {
+      "name": "Access for All",
+      "owner": "Jonah Brooks",
+      "status": "In progress",
+      "recentActivity": "Keyboard navigation review is underway across the key journeys.",
+      "priority": "High",
+      "summary": "Removing barriers so every member can take part in the community experience."
+    }
+  ]
+}
